@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheryl122
-- 👀 I’m interested in becoming a data analyst.
-- 🌱 I’m currently learning SQL, Python, Excel, and Tableau.
+- 👀 I am a data analyst showcasing my skills here.
+- 🌱 I am improving my SQL, Python, Excel, Tableau, and Power BI skills.
 - 💞️ I’m looking to collaborate on Query projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love trying new hobbies, the next hobbies I'm looking foward to starting is crocheting and gardening. 
